@@ -1,6 +1,7 @@
 ### Hi, I'm Fauze Guerreiro but you can call me "Fauze", I'm 18 years old, a programming student, and I live in Brazil
 
 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2134ff&height=120&section=header"/>
 
 ## Contacts:  
