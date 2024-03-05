@@ -14,7 +14,7 @@
 ## 🔨 Language and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 <div align="center">
