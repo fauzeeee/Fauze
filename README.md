@@ -23,6 +23,18 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanArjona&layout=compact&hide_border=true&title_color=2134ff&text_color=f7f7f7&bg_color=0d1117" />
 </div>
 
+# Ambitions
+
+- ⭐ Be the best at what I do
+- 🔭 Learn more every day
+- 🔎 Always ready to help anyone
+  
+## 🔨 Language and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,next,react,tailwind,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop)](https://skillicons.dev)
+
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
