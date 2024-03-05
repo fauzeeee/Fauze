@@ -10,10 +10,10 @@
 </p>
 
 ## Contacts:  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ruanarjona@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-arjona-0a1a331a4/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RuanArjona1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](fauzeguerreiro18@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauze-guerreiro-9ab3b82ab/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()
 
 ## Skills:
-![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?&logo=r&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&logo=kubernetes&logoColor=white)
+
 ## Stats
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2134ff&height=120&section=header"/>
