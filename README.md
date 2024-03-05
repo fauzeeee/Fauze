@@ -1,13 +1,5 @@
-### Hi, I'm Fauze Guerreiro!👋
+### Hi, I'm Fauze Guerreiro but you can call me "Fauze", I'm 18 years old, a programming student, and I live in Brazil
 
-+ But you can call me "Fauze", I'm 18 years old, a programming student, and I live in Brazil.
-
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1727F7&width=435&lines=print(%22Hello+word!%22)" alt="Typing SVG" />
-  </a>
-</p>
 
 ## Contacts:  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](fauzeguerreiro18@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauze-guerreiro-9ab3b82ab/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()
