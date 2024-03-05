@@ -1,7 +1,7 @@
 ### Hi, I'm Fauze Guerreiro!👋
 
-+ Systems Analysis and Development
-+ JavaScript programmer for Quality Assurance and Information Security
++ But you can call me "Fauze", I'm 18 years old, a programming student, and I live in Brazil.
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
